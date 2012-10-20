@@ -1,4 +1,15 @@
 A Lua based Pagekite (http://pagekite.net) client
 
-Uses the shalib from http://regex.info/blog/lua/sha1
+Uses the following modules:
+ shalib from http://regex.info/blog/lua/sha1
+ lua-socket
+ math
+ os
+
+Currently tested and working with PageKite version 0.4.6.
+Only supports the HTTP GET and POST protocol. You need to modify the config.cfg file to match your setup.
+
+Run with: lua pagekite.lua
+
+Report any problems or bug here: steliosm@steliosm.net
 
