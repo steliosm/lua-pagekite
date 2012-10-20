@@ -1,8 +1,8 @@
 #!/usr/bin/lua
 
 --
--- Pagekite back-end client in Lua for embedded devices
--- by Stelios Mersinas (steliosm@gmail.com)
+-- Pagekite back-end client in Lua
+-- by Stelios Mersinas (steliosm@steliosm.net)
 -- v0.5
 --
 --[[
