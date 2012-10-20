@@ -1,0 +1,3 @@
+lua-pagekite is a Lua based client for the Pagekite (http://pagekite.net) service.
+It uses the shalib from http://regex.info/blog/lua/sha1
+
