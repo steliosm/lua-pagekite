@@ -45,7 +45,7 @@ require "os"
 require "math"
 
 -- load the SHA1 encryption library
-dofile "lib/shalib.lua"
+dofile "lib/sha1.lua"
 
 --
 -- Read the config file
